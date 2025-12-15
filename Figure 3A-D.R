@@ -4,8 +4,8 @@
 # This script creates figures present in Figure 3A-B of the manuscript and prepares data for figure 3D
 # Marchalot et al. "Tumor-infiltrating immature innate lymphoid cells in colorectal 
 # cancer are biased towards tissue-resident NK cell/ILC1 differentiation"
-# Prerequisites: Load ILC_NK Seurat object available in GSE302045
-# Input: Seurat object
+# Prerequisites: Load 00_SETUP.R script
+# Input: ILC_NK Seurat object available in GSE302045
 # Output: plots as in Figure 3A-B in Marchalot et al.
 
 

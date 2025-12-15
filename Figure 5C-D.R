@@ -4,7 +4,7 @@
 # This script creates figures present in Figure 5C-D of the manuscript
 # Marchalot et al. "Tumor-infiltrating immature innate lymphoid cells in colorectal 
 # cancer are biased towards tissue-resident NK cell/ILC1 differentiation"
-# Prerequisites: Flow Cytometry processed FCS files in FlowJo
+# Prerequisites: Prerequisites: Load 00_SETUP.R script
 # Input: SingleCellExperiment object created from FCS files
 # Output: plots as in Figure 5C-D in Marchalot et al.
 
