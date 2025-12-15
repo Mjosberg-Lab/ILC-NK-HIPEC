@@ -1,0 +1,58 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.Rapp.history
+*.rds
+*.RDS
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+.ipynb_checkpoints/
+
+# Data files
+*.h5ad
+*.loom
+*.h5
+*.csv
+*.xlsx
+*.tsv
+
+# Outputs
+figures/
+plots/
+results/
+output/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
