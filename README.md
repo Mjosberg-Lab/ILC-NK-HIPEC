@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18618925.svg)](https://doi.org/10.5281/zenodo.18618925)
 # ILC-NK-HIPEC Manuscript Code
 
 This repository contains the analysis code used to generate the figures for our manuscript "Tumor-infiltrating immature innate lymphoid cells in colorectal cancer are biased towards tissue-resident NK cell/ILC1 differentiation" (Marchalot et al.)
